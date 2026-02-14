@@ -1,5 +1,5 @@
 <p align="center">
-  ![Typing SVG](https://readme-typing-svg.herokuapp.com?size=40&duration=2500&color=F75C7E&center=true&vCenter=true&width=600&lines=Vijay+Krishna;Full+Stack+Engineer;Next.js+%26+TypeScript)
+  <img src="https://raw.githubusercontent.com/vijayKrishna96/assets/main/banner.svg" width="100%" />
 </p>
 
 </p>
